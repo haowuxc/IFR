@@ -1,4 +1,4 @@
-name: env_evcap
+name: ifr
 channels:
   - pytorch
   - defaults

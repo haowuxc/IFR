@@ -1,0 +1,15 @@
+visual_pattern: None
+seed: 46
+model: feataligncap
+num_dino_token: 8
+bs: 24
+clip_image_size: 224
+freeze_qformer: True
+ext_path: ext_data/ext_memory_lvis.pkl
+feat_ds: pca
+gpu_pca: True
+weight:
+  info: 0
+  info_dino: 2
+  div: 0.3
+
